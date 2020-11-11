@@ -13,7 +13,7 @@ def load_library(path)
     emoticons["get_emoticon"][eng]=jan
   end
   emoticons
-  
+  binding.pry
   
  
 end
