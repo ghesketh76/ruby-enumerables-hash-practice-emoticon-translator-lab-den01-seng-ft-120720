@@ -6,8 +6,8 @@ require "pry"
 
 def load_library
   # code goes here
-  j_emotes = YAML.load_file('emoticons.yml')
-  binding.pry
+  
+ 
 end
 
 def get_japanese_emoticon
