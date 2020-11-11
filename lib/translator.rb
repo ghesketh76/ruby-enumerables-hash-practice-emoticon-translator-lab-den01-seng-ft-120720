@@ -6,7 +6,7 @@ require "pry"
 
 def load_library(path)
   # code goes here
-  emoticons = {
+  emoticons = {"get_meaning"
   
  
 end
